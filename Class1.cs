@@ -6,5 +6,6 @@ namespace Katarina
 {
     class Class1
     {
+        //komentar
     }
 }
