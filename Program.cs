@@ -8,7 +8,7 @@ namespace Katarina
         {
             Console.WriteLine("Hello World2!");
             Console.WriteLine("Novo");
-            Console.WriteLine("lucijana je najbolja he he");
+            Console.WriteLine("lucijana je najbolja he he i ispravila je gresku");
         }
     }
 }
