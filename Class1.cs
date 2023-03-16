@@ -6,6 +6,7 @@ namespace Katarina
 {
     class Class1
     {
+        //komentar
         void metoda()
         { }
     }
